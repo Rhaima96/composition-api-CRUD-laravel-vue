@@ -32,3 +32,7 @@ php artisan migrate
 ```bash
 php artisan serve
 ```
+
+```bash
+npm run hot
+```
